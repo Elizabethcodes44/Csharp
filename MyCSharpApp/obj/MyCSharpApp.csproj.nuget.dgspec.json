@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\casper\\PROJECTS\\Csharp\\MyCSharpApp\\MyCSharpApp.csproj": {}
+    "C:\\Users\\casper\\CSHARP_PROJECTS\\Csharp\\MyCSharpApp\\MyCSharpApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\casper\\PROJECTS\\Csharp\\MyCSharpApp\\MyCSharpApp.csproj": {
+    "C:\\Users\\casper\\CSHARP_PROJECTS\\Csharp\\MyCSharpApp\\MyCSharpApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\casper\\PROJECTS\\Csharp\\MyCSharpApp\\MyCSharpApp.csproj",
+        "projectUniqueName": "C:\\Users\\casper\\CSHARP_PROJECTS\\Csharp\\MyCSharpApp\\MyCSharpApp.csproj",
         "projectName": "MyCSharpApp",
-        "projectPath": "C:\\Users\\casper\\PROJECTS\\Csharp\\MyCSharpApp\\MyCSharpApp.csproj",
+        "projectPath": "C:\\Users\\casper\\CSHARP_PROJECTS\\Csharp\\MyCSharpApp\\MyCSharpApp.csproj",
         "packagesPath": "C:\\Users\\casper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\casper\\PROJECTS\\Csharp\\MyCSharpApp\\obj\\",
+        "outputPath": "C:\\Users\\casper\\CSHARP_PROJECTS\\Csharp\\MyCSharpApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\casper\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\casper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
